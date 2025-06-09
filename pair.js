@@ -57,8 +57,8 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
-*_Made With 🤍_*
+*_Pair Code Connected by CHRIS GAAJU*
+*_Made With ❤️_*
 ______________________________________
 ╔════◇
 ║ *『 WOW YOU'VE CHOSEN CHRISSPARK-XMD 』*
@@ -69,8 +69,8 @@ ______________________________________
 ║❒ *Ytube:* _youtube.com/@Xchristech_
 ║❒ *Owner:* _https://wa.me/2348069675806_
 ║❒ *Repo:* _https://github.com/Xchristech/CHRISSPARK-XMD_
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t
+║❒ *WaGroup:* _https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t_
 ║❒ *Plugins:* _https://github.com/Xchristech/CHRISSPARK-XMD_PLUGINS_
 ╚════════════════════════╝
 _____________________________________
